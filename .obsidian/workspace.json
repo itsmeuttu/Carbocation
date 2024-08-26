@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "a702900667c9dc2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "79d5c6b71323eaf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e55c0f548f8ed45",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7408bf26baa8aab",
+    "type": "split",
+    "children": [
+      {
+        "id": "938995bff6602a97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28c81887e02a157d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a2ea5a49bc275e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79d4b0dff99310fa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a42d221654c0d204",
+    "type": "split",
+    "children": [
+      {
+        "id": "989f2d75ce4773db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "183aad3bec800ee3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "613fc00f3261c6f5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a75e4f2832dff816",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "494970249ecbc894",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2e55c0f548f8ed45",
+  "lastOpenFiles": [
+    "Reaction of Non-Classical Carbocation.md",
+    "Pinnacole - Pinnacolone Rearrangement.md",
+    "Images/Pasted image 20240826131244.png",
+    "Images/Pasted image 20240826130332.png",
+    "Images/Pasted image 20240826083102.png",
+    "Images/Pasted image 20240826074540.png",
+    "Index.md",
+    "Oxymercuration and Demercuration.md",
+    "Images/Pasted image 20240826073658.png",
+    "Images/Pasted image 20240826073158.png",
+    "Images/Pasted image 20240825222005.png",
+    "Images/Pasted image 20240825221546.png",
+    "Images/Pasted image 20240825221139.png",
+    "HBO (Hydroboration Oxidation Reaction).md",
+    "Images/Pasted image 20240825220545.png",
+    "Reaction of Carbocation.md",
+    "Reaction of Alkene with NBS.md",
+    "Additon of halogen.md",
+    "Untitled.md",
+    "Ring Contraction.md",
+    "Rearrangement of Carbocation.md",
+    "Ring expansion.md",
+    "Stability of Carbocation.md",
+    "In Planarity.md",
+    "Introduction.md",
+    "Images"
+  ]
+}
